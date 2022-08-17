@@ -1,0 +1,61 @@
+/* Form */
+.form {
+  max-width: 60rem;
+  margin: 0 auto;
+}
+.form > div {
+  display: flex;
+  flex-direction: column;
+  margin: 1rem;
+}
+.form label {
+  margin: 1rem 0;
+  display: inline !important;
+}
+
+.bts {
+  padding: 0.2rem;
+  border-radius: 0.5rem;
+  border: 0.1rem #d47676 solid;
+  font-size: 1.6rem;
+  font-family: Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f8f8f8;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+
+}
+.bts:hover {
+  border: 0.1rem #df0b0b solid;
+  background-color: #d81f1fda;
+}
+.bts {
+  background-color: #b32c0a;
+}
+
+
+.Payment_Main {
+
+  width: 420px;
+  height: 400px;
+  background-color: white;
+  border: 1px solid black;
+  margin-bottom: 50px;
+  margin-left: 40%;
+  margin-top: 20px;
+  border-radius: 8px;
+
+}
+
+.Payment_Image{
+  width:120px;
+  height:40px;
+  margin-top: 20px;
+  margin-left: 35%;
+
+}
+.Payment_txt h1{
+  margin-left: 22%;
+}

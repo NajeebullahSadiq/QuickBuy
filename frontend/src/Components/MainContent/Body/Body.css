@@ -1,0 +1,50 @@
+/* Catogory*/
+.Catagory {
+    margin-left: 100px;
+    margin-top: 20px;
+    display: flex !important;
+}
+
+.cardC  {
+    text-align: center;
+}
+
+.cardC h4 {
+    margin-top: 15px;
+}
+
+
+
+/* code for about page*/
+
+.rounded-circle {
+
+    height: 150px;
+    width: 150px;
+    border: 2px solid rgb(110, 93, 93);
+}
+
+.card {
+    border:none;
+}
+.d-block.w-100.height{
+    height:300px !important;
+}
+.img-small{
+    height: 330px;
+    width: 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}   
+
+
+.main-div{
+   
+    
+    
+}
+.row {
+   
+   margin:0;
+}

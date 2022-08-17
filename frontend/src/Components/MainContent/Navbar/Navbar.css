@@ -1,0 +1,119 @@
+.nav-link {
+    color: white !important;
+}
+
+.btn:hover {
+    border-bottom: 3px solid #87CEFA !important;
+
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+
+}
+
+.header-for-Men {
+    color: #87CEFA;
+    font: bold;
+    margin-left: 20px;
+}
+
+.dropdown-menu {
+    background-color: rgb(22, 20, 20) !important;
+    color: white;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.dropdown-menu a {
+
+    color: white;
+
+}
+
+.dropdown-menu a:hover {
+
+    color: white;
+    background-color: rgb(41, 35, 35);
+    border-bottom: 3px solid #87CEFA;
+
+}
+
+
+
+/*Starting coding for Women hover*/
+
+.header-for-women {
+    color: rgb(151, 77, 151);
+    font: bold;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.dropdown-menu.women a:hover {
+
+    border-bottom: 3px solid rgb(151, 77, 151);
+}
+
+.btn.women1:hover {
+    border-bottom: 3px solid rgb(151, 77, 151) !important;
+}
+
+/*Starting coding for kids*/
+
+.header-for-kids {
+    color: #faf287;
+    font: bold;
+    margin-left: 20px;
+
+}
+
+.dropdown-menu.kids a:hover {
+
+    border-bottom: 3px solid #faf287;
+}
+
+.btn.kids:hover {
+    border-bottom: 3px solid #faf287 !important;
+}
+ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+
+ul li {
+    list-style: none;
+}
+
+/* for card*/
+.badge{
+    background-color:green;
+    color: #ffffff;
+    border-radius: 50%;
+    padding: 0.1rem 0.4rem;
+    font-size: 1.4rem;
+    
+   
+    
+}
+/* Dropdown */
+.dropdown {
+  display: inline-block;
+  position: relative;
+}
+.dropdown-content {
+  position: absolute;
+  display: none;
+  right: 0;
+  min-width: 12rem;
+  padding: 1rem;
+  z-index: 1;
+  background-color: #203040;
+  margin: 0;
+  margin-top: 0.4rem;
+  border-radius: 0.5rem;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}

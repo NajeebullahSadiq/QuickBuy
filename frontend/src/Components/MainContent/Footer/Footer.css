@@ -1,0 +1,43 @@
+
+.list-unstyled.icons {
+    display: flex !important;
+
+    justify-content: center;
+
+}
+
+.list-unstyled.icons li {
+    margin: 7px;
+
+}
+
+ul li a:hover {
+    text-decoration: none;
+
+}
+
+.row {
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.text {
+    color: #a1c0d3 !important;
+}
+
+.list-unstyled.text {
+    color: #a1c0d3 !important;
+}
+
+.logoForFooter{
+    width: 150px;
+    height: 50px;
+
+}
+p {
+    margin: 13px !important;
+}
+
+p {
+    color: black !important;
+}

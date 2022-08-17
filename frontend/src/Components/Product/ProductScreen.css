@@ -1,0 +1,106 @@
+
+
+
+
+
+#bt {
+  padding: 0.2rem;
+  border-radius: 0.5rem;
+  border: 0.1rem #d47676 solid;
+  font-size: 1.6rem;
+  font-family: Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f8f8f8;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  
+  
+}
+#bt:hover {
+  border: 0.1rem #df0b0b solid;
+  background-color: #d81f1fda;
+}
+#bt {
+  background-color: #b32c0a;
+}
+button.block {
+  width: 100%;
+}
+a.brand {
+  color: #ffffff;
+  font-size: 3rem;
+  font-weight: bold;
+}
+.r {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.r.top {
+  align-items: flex-start;
+}
+.c1 {
+  flex: 1 1 25rem;
+}
+.c2 {
+  flex: 2 1 50rem;
+}
+
+/* Image */
+.large {
+  border-radius: 0.5rem;
+  border: 2px solid rgba(236, 222, 222, 0.966);
+  max-width: 29rem;
+  width: 100%;
+  margin: 10px;
+  width: 70%;
+}
+
+
+/*price */
+.pr {
+    font-weight: bold;
+}
+.price{
+    font-weight: bold;
+}
+.Rs {
+    font-weight: bold;
+    font-size: 19px;
+}
+/* Alert */
+.success {
+  color: #20a020;
+  font-weight: bold;
+  font-size: 19px;
+}
+.error {
+    font-weight: bold;
+  color: #a02020;
+}
+
+
+.status {
+    font-weight: bold;
+
+}
+.description{
+    font-weight: bold;
+    font-size: 19px;
+}
+
+
+.qty {
+  font-weight: bold;
+  margin-left: 15px;
+  margin-bottom:10px ;
+}
+.qtyAmount {
+  margin-right: 20px;
+  margin-bottom: 10px;
+  margin-top: 5px;
+}

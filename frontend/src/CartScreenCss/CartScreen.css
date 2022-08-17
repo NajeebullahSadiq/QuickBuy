@@ -1,0 +1,90 @@
+.small
+{
+    height: 150px;
+    width: 150px !important;
+    border: 2px solid rgb(180, 180, 180);
+    border-radius: 5px;
+
+}
+
+.CartRow {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+   
+}
+.min-30{
+    min-width: 30rem;
+}
+.cart {
+    
+    width: 60rem;
+    height: 150px;
+    background-color:rgba(255, 250, 250, 0.493);
+    margin-left: 50rem;
+    border: 0.1rem solid rgb(238, 233, 233);
+    border-radius: 0.5rem;
+    margin-left: 300px;
+   margin-bottom: 70px;
+
+
+}
+
+.cartBt{
+     background-color: #b32c0a;
+      padding: 0.2rem;
+     border-radius: 0.5rem;
+    border: 0.1rem #d47676 solid;
+    font-size: 1.6rem;
+    font-family: Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    width: 350px;
+    margin-left: 18rem;
+    }
+.cartBt:hover{
+     border: 0.1rem #df0b0b solid;
+  background-color: #d81f1fda;
+}
+
+.cartH2 {
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 20rem;
+}
+
+#des {
+    font-weight: bold;
+    margin-left: 60px;
+    justify-content: center;
+
+}
+
+
+#price {
+    font-weight: bold;
+    margin-right: 70px;
+    margin-left: 60px;
+   
+}
+#select {
+    font-weight: bold;
+    margin-left: 50px;
+}
+
+.remove {
+    border-radius: 5px;
+    border: 2px solid gainsboro;
+}
+
+.remove:hover{
+    border: 2px solid black;
+}
+
+
+    
+
+
